@@ -53,6 +53,7 @@
 | --------------- | --------- | ---------- |
 | @alprshn		  | Kotlin    | 1          |
 | @baris-gungorr  | Kotlin     |  1         |
+| @fcatadev  | Kotlin     |  1         |
 
 ## iOS
 | Username        | Techstack  | Experience |
